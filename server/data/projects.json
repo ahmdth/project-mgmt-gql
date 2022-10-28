@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Zamit",
+    "description": "Threatened abortion",
+    "status": true,
+    "clientId": 1
+  },
+  {
+    "id": 2,
+    "name": "Tampflex",
+    "description": "Laceration of unspecified muscles, fascia and tendons at thigh level, left thigh, sequela",
+    "status": false,
+    "clientId": 3
+  },
+  {
+    "id": 3,
+    "name": "Opela",
+    "description": "Laceration of unspecified muscles, fascia and tendons at forearm level, right arm, initial encounter",
+    "status": false,
+    "clientId": 4
+  },
+  {
+    "id": 4,
+    "name": "It",
+    "description": "Complete lesion of sacral spinal cord, initial encounter",
+    "status": true,
+    "clientId": 4
+  },
+  {
+    "id": 5,
+    "name": "Home Ing",
+    "description": "Benign neoplasm of right lacrimal gland and duct",
+    "status": true,
+    "clientId": 2
+  },
+  {
+    "id": 6,
+    "name": "Span",
+    "description": "Insect bite (nonvenomous), left hip, sequela",
+    "status": true,
+    "clientId": 7
+  },
+  {
+    "id": 7,
+    "name": "Cookley",
+    "description": "Unspecified fracture of foot and toe",
+    "status": false,
+    "clientId": 5
+  },
+  {
+    "id": 8,
+    "name": "Hatity",
+    "description": "Unspecified fracture of left acetabulum, subsequent encounter for fracture with nonunion",
+    "status": true,
+    "clientId": 6
+  },
+  {
+    "id": 9,
+    "name": "Solarbreeze",
+    "description": "Frostbite with tissue necrosis of right ear, sequela",
+    "status": true,
+    "clientId": 9
+  },
+  {
+    "id": 10,
+    "name": "Latlux",
+    "description": "Poisoning by antithyroid drugs, accidental (unintentional), subsequent encounter",
+    "status": true,
+    "clientId": 6
+  }
+]
